@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# Credentials & Secrets (JANGAN SAMPAI KEPUSH)
+cookies.json
+
+# Browser Profile (Nodriver Cache)
+ig_profile/
+
+# Scraped Output & Debug Files
+output/
+
+# Standard OS & Editor
+.vscode/
+.DS_Store
