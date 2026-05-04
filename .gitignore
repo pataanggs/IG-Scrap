@@ -13,9 +13,6 @@ wheels/
 # Credentials & Secrets (JANGAN SAMPAI KEPUSH)
 cookies.json
 
-# Browser Profile (Nodriver Cache)
-ig_profile/
-
 # Scraped Output & Debug Files
 output/
 
