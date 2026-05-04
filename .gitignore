@@ -22,3 +22,4 @@ output/
 # Standard OS & Editor
 .vscode/
 .DS_Store
+github_painter/
