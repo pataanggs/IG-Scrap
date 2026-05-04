@@ -4,7 +4,7 @@ A modern, fast, and anti-bot-resistant Instagram scraper built with Python and [
 
 Features a simple Desktop GUI (built with PyQt6) so you don't have to interact with terminals every time!
 
-## 🌟 Prerequisites
+## Prerequisites
 
 1. **Python 3.12+**
 2. **`uv` Package Manager** installed.  
