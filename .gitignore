@@ -14,7 +14,7 @@ wheels/
 cookies.json
 
 # Scraped Output & Debug Files
-output/
+# output/
 
 # Standard OS & Editor
 .vscode/
